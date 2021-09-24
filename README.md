@@ -15,11 +15,6 @@ I can explore the possibility of a new era in the learning process by creating s
 
 
 
-### Connect me via:
-
-[<img align="left" alt="codeSTACKr.com" height="40" width="40" src="https://user-images.githubusercontent.com/56845182/134655810-01935105-90cc-40eb-878a-c75c3e109ab7.png" />][linkedin]
-<br />
-<br />
 
 
 <!--
@@ -32,6 +27,12 @@ I can explore the possibility of a new era in the learning process by creating s
 - 🌱 I’m currently learning **React Native**
 - 📫 How to reach me: **semrebayrak@gmail.com**
 
+
+### Connect me via:
+
+[<img align="left" alt="codeSTACKr.com" height="40" width="40" src="https://user-images.githubusercontent.com/56845182/134655810-01935105-90cc-40eb-878a-c75c3e109ab7.png" />][linkedin]
+<br />
+<br />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -46,6 +47,10 @@ I can explore the possibility of a new era in the learning process by creating s
 <a href="https://www.r-project.org/"><img src="https://stamsgroup.com/wp-content/uploads/2020/08/R.programming.png" alt="r" width="40" height="40"/> </a>     
 <a href="https://git-scm.com/"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="r" width="40" height="40"/> </a>     
    
+   
+<br />
+<br />
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semrebayrak&layout=compact)   
 
 [linkedin]: https://linkedin.com/in/semrebayrak
