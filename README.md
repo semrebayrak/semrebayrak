@@ -3,13 +3,13 @@
 
 </br>
 
-<p align="center">I can explore the possibility of a new era in the learning process by creating some special ideas and I am very quick in solving various types of problems.</p>
+I can explore the possibility of a new era in the learning process by creating some special ideas and I am very quick in solving various types of problems.
 
 </br>
 
 ### Connect me via:
 
-[<img align="left" alt="codeSTACKr.com" width=40px src="https://user-images.githubusercontent.com/56845182/134655810-01935105-90cc-40eb-878a-c75c3e109ab7.png" />][linkedin]
+[<img align="left" alt="codeSTACKr.com" height="40" width="40" src="https://user-images.githubusercontent.com/56845182/134655810-01935105-90cc-40eb-878a-c75c3e109ab7.png" />][linkedin]
 <br />
 <br />
 
