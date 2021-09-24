@@ -1,11 +1,19 @@
 #   <p align="center"> Hi 👋, I am Emre Bayrak</p>
    <p align="center">Mobile Application and Web Developer</p>
+   
+   
+
+   ![](https://komarev.com/ghpvc/?username=semrebayrak&color=blue)
+
+ 
 
 </br>
 
 I can explore the possibility of a new era in the learning process by creating some special ideas and I am very quick in solving various types of problems.
 
 </br>
+
+
 
 ### Connect me via:
 
