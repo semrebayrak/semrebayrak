@@ -21,7 +21,7 @@ I can explore the possibility of a new era in the learning process by creating s
 <br />
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semrebayrak&layout=compact)
+
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=semrebayrak)](https://github.com/anuraghazra/github-readme-stats)
 **semrebayrak/semrebayrak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -46,5 +46,7 @@ I can explore the possibility of a new era in the learning process by creating s
 <a href="https://www.r-project.org/"><img src="https://stamsgroup.com/wp-content/uploads/2020/08/R.programming.png" alt="r" width="40" height="40"/> </a>     
 <a href="https://git-scm.com/"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="r" width="40" height="40"/> </a>     
    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semrebayrak&layout=compact)   
+
 [linkedin]: https://linkedin.com/in/semrebayrak
 [myrepository]: https://github.com/semrebayrak?tab=repositories
