@@ -23,8 +23,7 @@ I can explore the possibility of a new era in the learning process by creating s
 -->
 
 
-- 🔭 I’m currently searching for a job
-- 🌱 I’m currently learning **React Native**
+
 - 📫 How to reach me: **semrebayrak@gmail.com**
 
 
